@@ -1,7 +1,7 @@
 # Human Readable Number
 
 ## Task
-Your task is to implement function `toReadable` that converts given number, to readable string.
+The task is to implement function `toReadable` that converts given number, to readable string.
 
 For example:
 ```js
@@ -11,7 +11,6 @@ toReadable(997); //will return 'nine hundred ninety seven'
 
 You can find even more examples in `test.js`
 
-Write your code in `src/index.js.
 *All test cases are designed as “error-free”, so don't worry about handling any errors.*
 
 ## Prepare and test
@@ -23,12 +22,17 @@ Write your code in `src/index.js.
 6. Run `npm test` in the command line  
 7. You will see the number of passing and failing tests you 100% of passing tests is equal to 100p in score  
 
-## Submit to [rs app](https://app.rs.school)
-1. Open [rs app](https://app.rs.school) and login
-2. Go to [submit task page](https://app.rs.school/course/student/auto-test?course=rs-2020-q1)
-3. Select your task (human-readable-number)
-4. Press the submit button and enjoy
-
 ### Notes
 1. We recommend you to use nodejs of version 12 or lower. If you using are any of the features which are not supported by v12, the score won't be submitted.
 2. Each of your test case is limited to 30 sec.
+
+## Stack
+* JavaScript (ES6)
+* Webpack
+* Git
+
+---
+
+### :white_check_mark: [Solution](https://github.com/Tatty13/human-readable-number/blob/master/src/index.js)
+
+---
